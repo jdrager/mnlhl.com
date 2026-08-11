@@ -48,6 +48,7 @@ nav .sidenav-trigger .material-icons {
 #stats-dropdown {
   min-width: 230px !important;
   top: 64px !important;
+  max-height: 75vh;
 }
 
 #stats-dropdown i.material-icons.left {
