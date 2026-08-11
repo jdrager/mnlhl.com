@@ -72,7 +72,7 @@ nav .sidenav-trigger .material-icons {
   transform-origin: top;
   transform: scaleY(0);
 
-  &.loaded {
+  &.loaded:not(empty) {
     padding: 5px 0;
     max-height: 200px;
     transform: scaleY(1);
